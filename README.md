@@ -1,6 +1,3 @@
-Installs basic dalite server
-============================
+This repository is obsolete.  The contents has been merged into the [ansible-playbooks][1] repo.
 
-Installs basic dalite server
-
-[Deployment instructions](https://github.com/open-craft/deployment-deploy-services).
+[1]: https://github.com/open-craft/ansible-playbooks
